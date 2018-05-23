@@ -1,3 +1,7 @@
 testando
 2
+<<<<<<< HEAD
 testando pau
+=======
+666
+>>>>>>> 58b6d1126befd233923999451381e0626c90f108
