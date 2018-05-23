@@ -1,4 +1,12 @@
 testando
 2
+<<<<<<< HEAD
 666
 TESTE 999
+=======
+<<<<<<< HEAD
+testando pau
+=======
+666
+>>>>>>> 58b6d1126befd233923999451381e0626c90f108
+>>>>>>> c0178668e1adbb0c8af3e6f6c8be726e9038f3f0
